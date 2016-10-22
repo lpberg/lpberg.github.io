@@ -34,3 +34,18 @@ p.publication {
   padding: 10px;
   border-radius: 2px;
 }
+.positionTitle {
+	vertical-align: bottom;
+	display: inline-block;
+	width: auto;
+	height: 30px;
+}
+.positionWhenWhere {
+	vertical-align: bottom;
+	display: inline-block;
+	width: auto;
+	font-size:16px;
+	height: 30px;
+	float:right;
+	font-weight:bold;
+}
