@@ -1,0 +1,89 @@
+body {
+	font-family: 'Open Sans', sans-serif;	
+}
+
+p {
+  font-size: 16px;
+}
+
+b {
+  font-weight: 700;
+}
+
+h3, h4 {
+  color: #159957
+}
+
+.basiclist {
+    padding: 0;
+    list-style-type: none;
+    font-size: 16px;
+}
+
+p.publication {
+    background-color: #F7F7F7;
+    padding: 10px;
+    border-radius: 2px;
+}
+
+.experienceCard {
+    padding: 15px;
+    border-radius: 2px;
+    border-style: solid;
+    border-width: 2px;
+    border-color: #EDEDED;
+    margin-bottom: 20px;
+}
+
+.lightgraybox {
+  padding: 10px;
+  background-color: #F0F0F0;
+  margin:5px;
+}
+
+.titlePageGrad {
+  background: red; /* For browsers that do not support gradients */
+  background: -webkit-linear-gradient(left, rgb(21,91,150) , rgb(21,138,101)); /* For Safari 5.1 to 6.0 */
+  background: -o-linear-gradient(right, rgb(21,91,150), rgb(21,138,101)); /* For Opera 11.1 to 12.0 */
+  background: -moz-linear-gradient(right, rgb(21,91,150), rgb(21,138,101)); /* For Firefox 3.6 to 15 */
+  background: linear-gradient(to right, rgb(21,91,150) , rgb(21,138,101)); /* Standard syntax */
+  padding-bottom: 40px;
+  padding-top: 40px;
+}
+
+.title {
+  color:white;
+  font-size: 55px;
+  font-weight: 300;
+  margin-bottom: 10px
+}
+
+.subtitle {
+  opacity: 0.5;
+  font-size: 22px;
+  color: white;
+}
+
+.navbar .navbar-nav {
+  display: inline-block;
+  float: none;
+  vertical-align: top;
+}
+
+.navbar .navbar-collapse {
+  text-align: center;
+}
+
+.navbar.navbar-default {
+    background-color: #99ccff;
+    border: 0;
+    -webkit-box-shadow: none;
+    box-shadow: none;
+   	padding-bottom: 0px;
+}
+
+.navbar.navbar-default.navbar-collapse {
+    border: 0;
+    -webkit-box-shadow: none;
+    box-shadow: none;
+}
