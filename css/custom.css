@@ -6,8 +6,20 @@ p {
   font-size: 16px;
 }
 
+p.publication {
+    background-color: #F7F7F7;
+    padding: 10px;
+    border-radius: 2px;
+}
+
 b {
   font-weight: 700;
+  color: #159957
+}
+
+h2{
+  color: gray;
+  margin-bottom: 30px;
 }
 
 h3, h4 {
@@ -20,17 +32,11 @@ h3, h4 {
     font-size: 16px;
 }
 
-p.publication {
-    background-color: #F7F7F7;
+.experienceCard {
     padding: 10px;
     border-radius: 2px;
-}
-
-.experienceCard {
-    padding: 15px;
-    border-radius: 2px;
     border-style: solid;
-    border-width: 2px;
+    border-width: 1px;
     border-color: #EDEDED;
     margin-bottom: 20px;
 }
@@ -55,7 +61,7 @@ p.publication {
   color:white;
   font-size: 55px;
   font-weight: 300;
-  margin-bottom: 10px
+  margin-bottom: 5px;
 }
 
 .subtitle {
