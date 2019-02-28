@@ -3,11 +3,11 @@
 	<head>
 		<meta charset="UTF-8">
 		<title>Leif Berg</title>
+		<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+		<script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+		<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
+		<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
 		<link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,700" rel="stylesheet">
-		<script type="text/javascript" src="js/jquery-3.1.1.min.js"></script>
-		<script type="text/javascript" src="js/bootstrap-3.3.7.min.js"></script>
-		<link rel="stylesheet" type="text/css" href="css/bootstrap.min.css" />
-		<link rel="stylesheet" type="text/css" href="css/bootstrap-theme.min.css" />
 		<link rel="stylesheet" type="text/css" href="css/custom.css" />
 	</head>
 	<body>
@@ -19,24 +19,29 @@
 		</div>
 		<div class="row">
 			<div class="col-md-12">
-				<nav class="navbar navbar-default navbar-static-top text-center">
-					<div class="container-fluid">
-					    <ul class='nav navbar-nav'>
-					    	<li><a href='index.html'>About Me</a></li>
-					    	<li><a href='research.html'>Research</a></li>
-					    	<li><a href='experience.html'>Experience</a></li>
-					    	<li><a href='interests.html'>Interests</a></li>
-					    	<li class='active'><a href='publications.html'>Publications</a></li>
-					    	<li><a href='skills.html'>Skills</a></li>
-				    	</ul>
-					</div>
+				<nav class="navbar navbar-expand-lg navbar-light bg-light">
+				  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
+				    <span class="navbar-toggler-icon"></span>
+				  </button>
+				  <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
+						<div class="navbar-nav mx-auto">
+							<a class="nav-item nav-link" href="index.html">About Me</a>
+							<a class="nav-item nav-link" href="research.html">Research</a>
+							<a class="nav-item nav-link" href="experience.html">Experience</a>
+							<a class="nav-item nav-link" href="interests.html">Interests</a>
+							<a class="nav-item nav-link active" href="publications.html">Publications</a>
+							<a class="nav-item nav-link" href="skills.html">Skills</a>
+						</div>
+				  </div>
 				</nav>
 			</div>
 		</div>
 		<div class="container">
-			<div class="row">
-				<h2 class="text-center">Publications</h2>
-				<div class="col-md-5 col-md-offset-1">
+			<div class="row justify-content-center">
+				<h2>Publications</h2>
+			</div>
+			<div class="row justify-content-center">
+				<div class="col-4">
 					<h4>Journal Articles</h4>
 					<p class="publication">Berg, L. P., & Vance, J. M. (2016). <a href="http://link.springer.com/article/10.1007/s10055-016-0293-9">Industry use of virtual reality in product design and manufacturing: a survey.</a> Virtual Reality, 1-17.</p>
 
@@ -48,7 +53,7 @@
 
 					<p class="publication">Behdad, S., Berg, L. P., Thurston, D., & Vance, J. (2014). <a href="http://mechanicaldesign.asmedigitalcollection.asme.org/article.aspx?articleid=1816539">Leveraging Virtual Reality Experiences With Mixed-Integer Nonlinear Programming Visualization of Disassembly Sequence Planning Under Uncertainty</a>. Journal of Mechanical Design, 136(4)</p>
 				</div>
-				<div class="col-md-5">
+				<div class="col-4">
 					<h4>Conference Proceedings</h4>
 					<p class="publication">Berg, L., Mahnke, A., Moritz, R. (2013). <a href="http://hcs.sagepub.com/content/2/1/57.short">Integration of Cognitive Modeling in the Evaluation of an EHR</a>. HFES 2013 Symposium on Human Factors and Ergonomics in Health Care: Health-Care Information Technology Track Mar. 11-13, Baltimore, Maryland, USA.</p>
 
