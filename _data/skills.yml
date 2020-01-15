@@ -1,0 +1,90 @@
+- name: Affinity Diagramming
+  type: research
+
+- name: Competitor Analysis
+  type: research
+
+- name: Contextual Inquiry
+  type: research
+
+- name: Personas
+  type: research
+
+- name: Wireframing
+  type: research
+
+- name: Prototyping
+  type: research
+
+- name: Eye-Tracking
+  type: research
+
+- name: Interviews
+  type: research
+
+- name: Surveys
+  type: research
+
+- name: Usability Testing
+  type: research
+
+- name: Heuristic Evaluation
+  type: research
+
+- name: Card Sorting
+  type: research
+
+- name: Task Analysis
+  type: research
+
+- name: Focus Groups
+  type: research
+
+- name: OVO Studios
+  type: software
+
+- name: Balsamiq
+  type: software
+
+- name: Morae
+  type: software
+
+- name: JustInMind Prototyper
+  type: software
+
+- name: Pencil
+  type: software
+
+- name: Axure RP
+  type: software
+
+- name: UserZoom
+  type: software
+
+- name: Inkscape
+  type: software
+
+- name: Python
+  type: technical
+
+- name: Java
+  type: technical
+
+- name: Lua
+  type: technical
+
+- name: HTML
+  type: technical
+
+- name: Javascript
+  type: technical
+
+- name: PHP
+  type: technical
+
+- name: CSS
+  type: technical
+
+- name: Boostrap
+  type: technical
+

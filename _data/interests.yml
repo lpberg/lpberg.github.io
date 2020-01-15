@@ -1,0 +1,42 @@
+- name: Virtual Reality
+  type: research
+
+- name: Human-Computer Interaction
+  type: research
+
+- name: Decision-Making
+  type: research
+
+- name: Graph Theory
+  type: research
+
+- name: User Experience
+  type: research
+
+- name: Usability
+  type: research
+
+- name: Data Visualization
+  type: research
+
+- name: Programming Challenges
+  type: technical
+
+- name: Open Source
+  type: technical
+
+- name: Board Games
+  type: hobbies
+
+- name: Running
+  type: hobbies
+
+- name: Video Games
+  type: hobbies
+
+- name: Hiking
+  type: hobbies
+
+- name: Yoga
+  type: hobbies
+
