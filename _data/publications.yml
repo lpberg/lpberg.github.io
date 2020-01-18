@@ -1,0 +1,53 @@
+- authors: Berg, L. P., & Vance, J. M. (2016). 
+  url: http://link.springer.com/article/10.1007/s10055-016-0293-9
+  type: journal
+  title: "Industry use of virtual reality in product design and manufacturing: a survey."
+  place: Virtual Reality, 1-17.
+
+- authors: Berg, L. P., & Vance, J. M. (2016). 
+  url: http://computingengineering.asmedigitalcollection.asme.org/article.aspx?articleid=2539427
+  type: journal
+  title: "An Industry Case Study: Investigating Early Design Decision Making in Virtual Reality."
+  place: Journal of Computing and Information Science in Engineering.
+
+- authors: Berg, L., Behdad, S., Vance, J., and Thurston, D. (2015). 
+  url: http://computingengineering.asmedigitalcollection.asme.org/article.aspx?articleid=1919306
+  type: journal
+  title:  "Disassembly Sequence Evaluation: A User Study Leveraging Immersive Computing Technologies."
+  place: Journal of Computing and Information Science in Engineering. 15(1)
+
+- authors: Behdad, S., Berg, L., Vance, J., and Thurston, D. (2014).
+  url: https://asmedigitalcollection.asme.org/mechanicaldesign/article-abstract/136/7/071001/376028/Immersive-Computing-Technology-to-Investigate?redirectedFrom=fulltext
+  type: journal
+  title:  Immersive Computing Technology to Investigate Trade-offs under Uncertainty in Disassembly Sequence Planning.
+  place: Journal of Mechanical Design, 136(4)
+
+- authors: Behdad, S., Berg, L. P., Thurston, D., & Vance, J. (2014). 
+  url: http://mechanicaldesign.asmedigitalcollection.asme.org/article.aspx?articleid=1816539
+  type: journal
+  title: Leveraging Virtual Reality Experiences With Mixed-Integer Nonlinear Programming Visualization of Disassembly Sequence Planning Under Uncertainty.
+  place: Journal of Mechanical Design, 136(4)
+
+- authors: Berg, L., Mahnke, A., Moritz, R. (2013). 
+  url: http://hcs.sagepub.com/content/2/1/57.short
+  type: conference
+  title:  Integration of Cognitive Modeling in the Evaluation of an EHR.
+  place: "HFES 2013 Symposium on Human Factors and Ergonomics in Health Care: Health-Care Information Technology Track Mar. 11-13, Baltimore, Maryland, USA."
+
+- authors: Behdad, S., Berg, L., Thurston, D., and Vance, J. (2013).
+  url: http://proceedings.asmedigitalcollection.asme.org/proceeding.aspx?articleid=1830526
+  type: conference
+  title:  Synergy between Normative and Descriptive Design Theory and Methodology.
+  place: ASME 2012 International Design Engineering Technical Conferences & Computers and Information in Engineering Conference, IDETC/DTM 2013 Aug. 4-7, Chicago, Illinois, USA.
+
+- authors: Berg, L., Behdad, S., Vance, J., and Thurston, D.(2012). 
+  url: http://proceedings.asmedigitalcollection.asme.org/proceeding.aspx?articleid=1736078
+  type: conference
+  title:  Disassembly Evaluation and Training using Graph Visualization and Immersive Computing Technologies.
+  place: ASME 2012 International Design Engineering Technical Conferences & Computers and Information in Engineering Conference, IDETC/CIE 2012 Aug. 12-15, Chicago, Illinois, USA.
+
+- authors: Behdad, S., Berg, L., Thurston, D., and Vance, J. (2012).
+  url: http://proceedings.asmedigitalcollection.asme.org/proceeding.aspx?articleid=1736218
+  type: conference
+  title:  Integrating Immersive Computing Technology with Mixed-Integer Nonlinear Programming for Disassembly Sequence Planning under Uncertainty.
+  place: ASME 2012 International Design Engineering Technical Conferences & Computers and Information in Engineering Conference, IDETC/DTM 2012 Aug. 12-15, Chicago, Illinois, USA.
