@@ -8,14 +8,14 @@ title: experience
 	</div>
 	{% for xp in site.data.experience %}
 	<div class="row justify-content-center bm">
-		<div class="col-6 leftborder">
+		<div class="col-8 leftborder">
 			<i>{{ xp.date }}</i>
 			<span><h4>{{ xp.title }}</h4></span>
 			<p>{{ xp.desc }}</p>
 		</div>
-		<div class="col-3">
+<!-- 		<div class="col-3">
 			<img src="{{ xp.photo }}" class="img-fluid">
-		</div>
+		</div> -->
 	</div>	
 	{% endfor %}
 </div>

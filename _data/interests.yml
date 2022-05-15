@@ -1,19 +1,10 @@
 - name: Virtual Reality
   type: research
 
-- name: Human-Computer Interaction
+- name: Behavioral Economics
   type: research
 
 - name: Decision-Making
-  type: research
-
-- name: Graph Theory
-  type: research
-
-- name: User Experience
-  type: research
-
-- name: Usability
   type: research
 
 - name: Data Visualization
@@ -22,19 +13,25 @@
 - name: Programming Challenges
   type: technical
 
-- name: Open Source
-  type: technical
+- name: Languages
+  type: research
 
-- name: Board Games
+- name: Scandinavian History
   type: hobbies
 
-- name: Running
+- name: Smart Home Automation
   type: hobbies
 
-- name: Video Games
+- name: Vehicle Detailing
   type: hobbies
 
-- name: Hiking
+- name: Lawn and Garden
+  type: hobbies
+
+- name: Retro Video Games
+  type: hobbies
+
+- name: Jogging
   type: hobbies
 
 - name: Yoga

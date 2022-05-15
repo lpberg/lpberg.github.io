@@ -1,58 +1,79 @@
 - name: Affinity Diagramming
   type: research
 
-- name: Competitor Analysis
+- name: Analytics
+  type: research
+
+- name: Benchmarking
+  type: research
+
+- name: Card Sort
   type: research
 
 - name: Contextual Inquiry
   type: research
 
-- name: Personas
+- name: Diary Study
   type: research
 
-- name: Wireframing
-  type: research
-
-- name: Prototyping
+- name: Experimental Design
   type: research
 
 - name: Eye-Tracking
   type: research
 
+- name: Heuristic Analysis
+  type: research
+
 - name: Interviews
+  type: research
+
+- name: Journey Map
+  type: research
+
+- name: Metrics
+  type: research
+
+- name: Observation
+  type: research
+
+- name: Personas
+  type: research
+
+- name: Prototyping
+  type: research
+
+- name: Prototyping
+  type: research
+
+- name: ROI
+  type: research
+
+- name: Service Design
   type: research
 
 - name: Surveys
   type: research
 
-- name: Usability Testing
-  type: research
-
-- name: Heuristic Evaluation
-  type: research
-
-- name: Card Sorting
-  type: research
-
 - name: Task Analysis
   type: research
 
-- name: Focus Groups
+- name: Usability Testing
   type: research
 
 - name: OVO Studios
   type: software
 
-- name: Balsamiq
+- name: Checkbox (surveys)
+  type: software
+
+- name: Balsamiq Mockups
   type: software
 
 - name: Morae
   type: software
 
 - name: JustInMind Prototyper
-  type: software
-
-- name: Pencil
   type: software
 
 - name: Axure RP
@@ -64,27 +85,23 @@
 - name: Inkscape
   type: software
 
-- name: Python
+- name: HTML/CSS
   type: technical
 
-- name: Java
+- name: JavaScript
+  type: technical
+
+- name: Linux / Bash
   type: technical
 
 - name: Lua
   type: technical
 
-- name: HTML
+- name: Python
   type: technical
 
-- name: Javascript
+- name: R / Rshiny
   type: technical
 
-- name: PHP
+- name: SQL
   type: technical
-
-- name: CSS
-  type: technical
-
-- name: Boostrap
-  type: technical
-

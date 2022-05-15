@@ -10,7 +10,7 @@ title: skills
 	<div class="row row justify-content-center">
 			
 			<div class="col-2">
-				<p><b>Research Methods</b></p>
+				<p><b>Methods</b></p>
 				<ul class="basiclist leftborder">
 					{% for skill in site.data.skills %}
 						{% if skill.type == "research" %}
@@ -40,6 +40,46 @@ title: skills
 				</ul>		
 			</div>
 
+		</div>
+	</div>
+</div>
+	
+<div class="container">
+	<div class="row row justify-content-center">
+		<h2 class="text-center">Interests</h2>
+	</div>
+	<div class="row row justify-content-center">
+			<div class="col-2">
+				<p><b>Research</b></p>
+				<ul class="basiclist leftborder">
+				{% for interest in site.data.interests %}
+					{% if interest.type == "research" %}
+					<li>{{ interest.name }}</li>
+					{% endif %}
+				{% endfor %}
+				</ul>
+			</div>
+			
+			<div class="col-2">
+				<p><b>Hobbies</b></p>
+				<ul class="basiclist leftborder">
+				{% for interest in site.data.interests %}
+					{% if interest.type == "hobbies" %}
+					<li>{{ interest.name }}</li>
+					{% endif %}
+				{% endfor %}						
+				</ul>		
+			</div>
+			<div class="col-2">
+				<p><b>Technical</b></p>
+				<ul class="basiclist leftborder">
+					{% for interest in site.data.interests %}
+					{% if interest.type == "technical" %}
+						<li>{{ interest.name }}</li>
+					{% endif %}
+				{% endfor %}						
+				</ul>		
+			</div>
 		</div>
 	</div>
 </div>
