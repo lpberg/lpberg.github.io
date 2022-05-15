@@ -94,6 +94,9 @@
 - name: Linux / Bash
   type: technical
 
+- name: Git / Github
+  type: technical
+
 - name: Lua
   type: technical
 
