@@ -8,10 +8,14 @@ title: experience
 	</div>
 	{% for xp in site.data.experience %}
 	<div class="row justify-content-center bm">
-		<div class="col-8 leftborder">
-			<i>{{ xp.date }}</i>
+		<div class="col-8">
 			<span><h4>{{ xp.title }}</h4></span>
-			<p>{{ xp.desc }}</p>
+			<i>{{ xp.date }}</i>
+			<ul>
+ 			{% for xp_statement in xp.desc %}
+			<li>{{ xp_statement }}</li>
+			{% endfor %}
+			</ul>
 		</div>
 <!-- 		<div class="col-3">
 			<img src="{{ xp.photo }}" class="img-fluid">

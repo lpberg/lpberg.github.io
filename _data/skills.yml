@@ -85,6 +85,26 @@
 - name: Inkscape
   type: software
 
+- name: Snowflake
+  type: software
+
+- name: SurveyMonkey
+  type: software
+
+- name: Qualtrics
+  type: software
+
+- name: Amplitude (analytics)
+  type: software
+
+- name: EnjoyHQ
+  type: software
+
+- name: Salesforce
+  type: software
+
+- name: Confluence Wiki
+  type: software
 - name: HTML/CSS
   type: technical
 

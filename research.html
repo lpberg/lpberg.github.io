@@ -19,4 +19,27 @@ title: research
 	</div>      
 </div>
 
+<div class="container">
+	<div class="row justify-content-center">
+		<h2>Publications</h2>
+	</div>
+	<div class="row justify-content-center">
+		<div class="col-4">
+			<h4>Journal Articles</h4>
+			{% for pub in site.data.publications %}
+			{% if pub.type == "journal" %}
+			<p class="publication">{{ pub.authors }} <a href="{{ pub.url }}">{{pub.title}}</a> {{ pub.place }}</p>
+			{% endif %}
+			{% endfor %}
+		</div>
+		<div class="col-4">
+			<h4>Conference Proceedings</h4>
+			{% for pub in site.data.publications %}
+			{% if pub.type == "conference" %}
+			<p class="publication">{{ pub.authors }} <a href="{{ pub.url }}">{{pub.title}}</a> {{ pub.place }}</p>
+			{% endif %}
+			{% endfor %}
+		</div>
+	</div>
+</div>
   
