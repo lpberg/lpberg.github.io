@@ -126,5 +126,8 @@
 - name: R / Rshiny
   type: technical
 
+- name: Docker
+  type: technical
+
 - name: SQL
   type: technical
