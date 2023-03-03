@@ -39,6 +39,9 @@ h4 {
     font-size: 14px;
 }
 
+.basiclist li {
+    margin: 3px 0;
+}
 .leftborder {
   border-left-style: solid;
   border-color: rgb(185,204,222);
