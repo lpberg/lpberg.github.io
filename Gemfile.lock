@@ -207,6 +207,7 @@ GEM
     listen (3.8.0)
       rb-fsevent (~> 0.10, >= 0.10.3)
       rb-inotify (~> 0.9, >= 0.9.10)
+    logger (1.4.3)
     mercenary (0.3.6)
     mini_portile2 (2.8.1)
     minima (2.5.1)
@@ -219,6 +220,7 @@ GEM
       racc (~> 1.4)
     nokogiri (1.14.2-x64-mingw32)
       racc (~> 1.4)
+    observer (0.1.1)
     octokit (4.25.1)
       faraday (>= 1, < 3)
       sawyer (~> 0.9)
@@ -259,6 +261,7 @@ GEM
     unf_ext (0.0.8.2-x64-mingw32)
     unicode-display_width (1.8.0)
     wdm (0.1.1)
+    webrick (1.9.1)
     zeitwerk (2.6.7)
 
 PLATFORMS
@@ -268,10 +271,13 @@ PLATFORMS
 DEPENDENCIES
   github-pages
   jekyll-feed (~> 0.12)
+  logger
   minima (~> 2.5)
+  observer
   tzinfo (~> 1.2)
   tzinfo-data
   wdm (~> 0.1.1)
+  webrick (~> 1.9)
 
 BUNDLED WITH
    2.1.4

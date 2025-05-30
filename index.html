@@ -2,30 +2,50 @@
 layout: default
 title: home
 ---
+
 <div class="container" style="margin-top: 20px">
+
 	<div class="row justify-content-center">
-		<div class="col-6">
-			<h2>About Me</h2>
-			<p>Motivated UX researcher with 10+ years of UX & HCI experience. Passionate about applying mixed methods research and service design principles to measure and improve end-to-end user experiences. Proven experience utilizing metrics and analytics to support data-driven decision making.</p>
-			<p>I enjoy working outdoors, tinkering with tech, retro video games, and spending time with my family.</p>
-		   
-			<p><b>Ph.D. Human-Computer Interaction</b>
-			<br>
-			Iowa State University (2015)
-			<br>
-			<p><b>B.A. Computer Science</b> 
-			<br>
-			St. Olaf College (2009)</p>
-			<!--<p>I enjoy exploring the great outdoors, tinkering with tech, and cooking with wife and kids.</p>-->
-		</div>
+		<div class="col-5">
+			<p>Outcome-driven Solutions Architect with 10+ years of experience creating user-centered solutions that align business goals, technical constraints, and user needs. Skilled in stakeholder collaboration, research, data analytics, and Service Design to deliver cohesive, end-to-end experiences across products and touchpoints.
+	    </div>
 		<div class="col-3">
-			<img src="assets/imgs/LeifandMeisha.jpg" alt="Leif and Meisha" class="img-responsive" style="width:250px;">
-			<!-- <div class="leftborder experienceCard">
-				<p><a href="files/Resume_Leif_Berg.pdf">Résumé (PDF)</a> | 
-				<a href="files/Portfolio_Leif_Berg.pdf">Portfolio (PDF)</a></p>
-				<p>leif.berg@gmail.com</p>
-				<p>www.lpberg.com</p> 
-			</div> -->
+			<p><b>Ph.D. Human-Computer Interaction</b>
+			Iowa State University (2015)
+			<p><b>B.A. Computer Science</b> 
+			<br>St. Olaf College (2009)</p>
 		</div>
 	</div>
+	<div class="row justify-content-center">
+		<div class="col-8">
+	        <h2>Experience</h2>
+		</div>
+    </div>
+    {% for xp in site.data.experience %}
+    <div class="row justify-content-center">
+        <div class="col-8">
+            <span><h4>{{ xp.title }}</h4></span>
+            <i>{{ xp.date }}</i>
+            <ul>
+            {% for xp_statement in xp.desc %}
+            <li>{{ xp_statement }}</li>
+            {% endfor %}
+            </ul>
+        </div>
+    </div>
+    {% endfor %}
+
+	<div class="row justify-content-center">
+<div class="col-8">
+        <h2>Academic Research</h2>
+        </div>
+    </div>
+    <div class="row justify-content-center">
+        <div class="col-8">
+        {% for xp in site.data.research %}
+            <h4>{{ xp.title }}</h4>
+            <p>{{ xp.desc }} <i>{{ xp.date }}</i></p>
+        {% endfor %}
+        </div>
+    </div>
 </div>

@@ -1,130 +1,138 @@
 - name: Affinity Diagramming
-  type: research
-
-- name: Analytics
-  type: research
-
-- name: Benchmarking
-  type: research
-
-- name: Card Sort
-  type: research
+  type: Research & Design
 
 - name: Contextual Inquiry
-  type: research
+  type: Research & Design
 
-- name: Diary Study
-  type: research
+- name: Field Studies
+  type: Research & Design
 
-- name: Experimental Design
-  type: research
+- name: Heuristic Evaluation
+  type: Research & Design
 
-- name: Eye-Tracking
-  type: research
+- name: Information Architecture
+  type: Research & Design
 
-- name: Heuristic Analysis
-  type: research
+- name: Interviews & Focus Groups
+  type: Research & Design
 
-- name: Interviews
-  type: research
+- name: Journey Mapping
+  type: Research & Design
 
-- name: Journey Map
-  type: research
-
-- name: Metrics
-  type: research
-
-- name: Observation
-  type: research
-
-- name: Personas
-  type: research
-
-- name: Prototyping
-  type: research
-
-- name: ROI
-  type: research
+- name: Persona Development
+  type: Research & Design
 
 - name: Service Design
-  type: research
+  type: Research & Design
 
-- name: Surveys
-  type: research
+- name: Survey Design
+  type: Research & Design
 
 - name: Task Analysis
-  type: research
+  type: Research & Design
 
 - name: Usability Testing
-  type: research
+  type: Research & Design
 
-- name: OVO Studios
-  type: software
+- name: UX Strategy
+  type: Research & Design
 
-- name: Checkbox (surveys)
-  type: software
+- name: Wireframing
+  type: Research & Design
 
-- name: Balsamiq Mockups
-  type: software
+- name: Data Analysis
+  type: Data Analysis
 
-- name: Morae
-  type: software
+- name: Data Transformation
+  type: Data Analysis
 
-- name: JustInMind Prototyper
-  type: software
+- name: Data Visualization
+  type: Data Analysis
+
+- name: Descriptive Statistics
+  type: Data Analysis
+
+- name: Flask
+  type: Data Analysis
+
+- name: Pandas
+  type: Data Analysis
+
+- name: Shiny
+  type: Data Analysis
+
+- name: Tidyverse
+  type: Data Analysis
+
+- name: Web Analytics
+  type: Data Analysis
+
+- name: Ansible
+  type: Technical & Tools
 
 - name: Axure RP
-  type: software
+  type: Technical & Tools
 
-- name: UserZoom
-  type: software
+- name: Balsamiq Mockups
+  type: Technical & Tools
 
-- name: Inkscape
-  type: software
-
-- name: Snowflake
-  type: software
-
-- name: SurveyMonkey
-  type: software
-
-- name: Qualtrics
-  type: software
-
-- name: Amplitude (analytics)
-  type: software
-
-- name: EnjoyHQ
-  type: software
-
-- name: Salesforce
-  type: software
-
-- name: Confluence Wiki
-  type: software
 - name: HTML/CSS
-  type: technical
+  type: Technical & Tools
+
+- name: Java
+  type: Technical & Tools
 
 - name: JavaScript
-  type: technical
+  type: Technical & Tools
 
-- name: Linux / Bash
-  type: technical
-
-- name: Git / Github
-  type: technical
+- name: Linux
+  type: Technical & Tools
 
 - name: Lua
-  type: technical
+  type: Technical & Tools
+
+- name: Matomo
+  type: Technical & Tools
 
 - name: Python
-  type: technical
+  type: Technical & Tools
 
-- name: R / Rshiny
-  type: technical
+- name: R
+  type: Technical & Tools
 
-- name: Docker
-  type: technical
+- name: ServiceNow
+  type: Technical & Tools
 
 - name: SQL
-  type: technical
+  type: Technical & Tools
+
+- name: Artificial Intelligence (AI)
+  type: Interests
+
+- name: Behavioral Economics
+  type: Interests
+
+- name: Decision-Making
+  type: Interests
+
+- name: Linux and Open Source
+  type: Interests
+
+- name: ROI
+  type: Interests
+
+- name: Running
+  type: Interests
+
+- name: Service Design, ITSM
+  type: Interests
+
+- name: Automation
+  type: Interests
+
+- name: Teaching & Training
+  type: Interests
+
+- name: Hiking
+  type: Interests
+

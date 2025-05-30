@@ -1,0 +1,19 @@
+<div class="container">
+	<div class="row">
+		<h2>Experience</h2>
+	</div>
+	{% for xp in site.data.experience %}
+	<div class="row bm">
+		<div class="col-8">
+			<span><h4>{{ xp.title }}</h4></span>
+			<i>{{ xp.date }}</i>
+			<ul>
+ 			{% for xp_statement in xp.desc %}
+			<li>{{ xp_statement }}</li>
+			{% endfor %}
+			</ul>
+		</div>
+	</div>	
+	{% endfor %}
+</div>
+	

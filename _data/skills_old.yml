@@ -1,0 +1,130 @@
+- name: Affinity Diagramming
+  type: research
+
+- name: Analytics
+  type: research
+
+- name: Benchmarking
+  type: research
+
+- name: Card Sort
+  type: research
+
+- name: Contextual Inquiry
+  type: research
+
+- name: Diary Study
+  type: research
+
+- name: Experimental Design
+  type: research
+
+- name: Eye-Tracking
+  type: research
+
+- name: Heuristic Analysis
+  type: research
+
+- name: Interviews
+  type: research
+
+- name: Journey Map
+  type: research
+
+- name: Metrics
+  type: research
+
+- name: Observation
+  type: research
+
+- name: Personas
+  type: research
+
+- name: Prototyping
+  type: research
+
+- name: ROI
+  type: research
+
+- name: Service Design
+  type: research
+
+- name: Surveys
+  type: research
+
+- name: Task Analysis
+  type: research
+
+- name: Usability Testing
+  type: research
+
+- name: OVO Studios
+  type: software
+
+- name: Checkbox (surveys)
+  type: software
+
+- name: Balsamiq Mockups
+  type: software
+
+- name: Morae
+  type: software
+
+- name: JustInMind Prototyper
+  type: software
+
+- name: Axure RP
+  type: software
+
+- name: UserZoom
+  type: software
+
+- name: Inkscape
+  type: software
+
+- name: Snowflake
+  type: software
+
+- name: SurveyMonkey
+  type: software
+
+- name: Qualtrics
+  type: software
+
+- name: Amplitude (analytics)
+  type: software
+
+- name: EnjoyHQ
+  type: software
+
+- name: Salesforce
+  type: software
+
+- name: Confluence Wiki
+  type: software
+- name: HTML/CSS
+  type: technical
+
+- name: JavaScript
+  type: technical
+
+- name: Linux / Bash
+  type: technical
+
+- name: Git / Github
+  type: technical
+
+- name: Lua
+  type: technical
+
+- name: Python
+  type: technical
+
+- name: R / Rshiny
+  type: technical
+
+- name: Docker
+  type: technical
+
+- name: SQL
+  type: technical

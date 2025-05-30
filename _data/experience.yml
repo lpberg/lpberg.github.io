@@ -1,75 +1,81 @@
-- title: Senior User Experience Researcher
+- title: UX Solutions Architect
   desc:
-    - Leading research strategy for Falcon Fusion product group. 
-    - Collaborating with cross functional teams made up of designers, writers, quality assurance, product managers, and engineers to plan and execute impactful research. 
-    - Improving targeted participant recruiting efforts using analytics tools. 
-    - Conducting generative user research to identify feature opportunities, gaps, and inform product strategy.
-  date: CrowdStrike, 2022-Present
+    - Improving multi-touchpoint cross-product experiences in HR systems by focusing on consistency, scalability, andusability, leveraging frameworks, analytics, and user journey mapping.
+    - Enabling better data access for analysts by reimagining how enterprise data is requested, granted, and managed, through the creation of standardized processes, user profiles, and governance structures.
+    - Enhancing IT service design and delivery by focusing on service value chains, understanding end-user outcomes, business requirements, and optimizing existing workflows.
+    - Matured UX requirements in a software quality framework by promoting user-centric thinking throughout the productlifecycle, integrating standards, pattern libraries, and best practices.
+    - Increased UX scores by 20%+ for enterprise applications by conducting outcome-driven research focused on translating business requirements into user-centered solutions.
+    - Exploring AI integration in Enterprise IT through user interviews, literature reviews, and analysis of industry trends to inform the development of corporate applications.
+  date: Sandia National Laboratories, Sept. 2022 - Present
+
+- title: Lead User Experience UX Researcher
+  desc:
+    - Collaborated with cross-functional agile teams to research, design, architect, and develop solutions that fine-tune user experiences with a low-code workflow automation platform.
+    - Incorporated UX metrics within the research and design process to identify trends and benchmark performance.
+    - Advocated for cohesive, consistent, and intuitive experiences across platform modules by communicating research insights across the organization.
+    - Reduced participant recruitment effort by deploying a custom data analytics tool that cut down on the steps required to solicit study participants. Supported development of participant tracking database to limit customer oversampling.
+    - Mentored researchers, visual designers, and project owners on UX evaluation techniques through one-on-one coaching sessions.
+  date: CrowdStrike, Jul. 2022 - Sept. 2023
   photo: assets/imgs/abq.jpg
 
-- title: Principle User Experience Researcher
+- title: Senior UX Researcher
   desc:
-    - Planned and executed qualitative and quantitative research across various enterprise and internal products and services. Communicated measurable impact using metrics, analytics, and ROI. 
-    - Lead corporate initiatives to strengthen UX capability. 
-    - Established strategy, standards, templates, tools, and processes to enable UX democratization. 
-    - Championed effort to create usability testing and collaborative design spaces. 
-    - Teaching UX training courses enabling 100+ staff to apply UX to their products. 
-    - Mentored students and junior researchers. 
-    - Launched Community of Practice to engage staff and leadership in UX topics and discussions. 
-    - Transformed how 80+ IT services are discovered and requested by partnering with dozens of organizations to conceptualize, prototype, and implement an IT service catalog emphasizing service design practices. 
-    - Exploring and evaluating UX feedback methods to inform corporate UX benchmarking strategy. 
-    - Influencing how the health of IT products and services are communicated to management and leadership.
-  date: Sandia National Labs, 2015-2022
+    - Enriched enterprise product and service experiences by conducting qualitative and quantitative UX research; demonstrated measurable ROI using analytics and metrics.
+    - Evolved UX research capability by leading initiatives focusing on standards, templates, processes, and software tools to support the UX community at Sandia.
+    - Streamlined how UX data is collected, analyzed, and communicated by creating custom software tools (Python, R, Excel) for designers and researchers.
+    - Facilitated user-centered design training to equip 100+ project managers with practical UX design and research skills.
+    - Simplified how 80+ IT services are discovered and requested. Leveraged journey mapping, touchpoint analysis, and service design to implement an IT service catalog in WordPress.
+    - Directed a cross-functional team to draft a UX strategy for benchmarking IT products and services that focused on metrics and user feedback.
+  date: Sandia National Labs, Jul. 2015 - Jul. 2022
   photo: assets/imgs/abq.jpg
 
 - title: Graduate Research Assistant
-  desc: 
-    - Leveraged virtual reality technologies to discover new design processes. 
-    - Investigated synergy between different design methodologies. 
-    - Conducted on-site contextual inquiry with numerous industries to understand pervasiveness of virtual reality technologies and it's role in design decision making.
-  date: Iowa State University, 2011-2015
+  desc:
+    - Conducted field studies to evaluate how industry professionals use virtual reality (VR) in product design decisionmaking.
+    - Investigated future applications of immersive VR and its integration with normative and descriptive design methodologies. Published research findings in peer-reviewed journals and presented at academic and industry conferences.
+  date: Iowa State University, Jan. 2011 - Jul. 2015
   photo: assets/imgs/metal.jpg
 
-- title: Microsoft Design Research Intern
-  desc: 
-    - Impacted design thinking of designers, researchers, and program managers surrounding core user experiences in Windows 8. 
-    - Investigated how Windows 8.1 updates would be received by varying groups of end-users through the design and execution of lab studies.  
-  date: Microsoft Corporation, Summer 2013
+- title: Design Research Intern
+  desc:
+    - Influenced the design thinking of designers and product managers by providing user-centered insights on core Desktop experiences in Windows 8.
+    - Designed and executed qualitative research studies to forecast end-user reception of Windows 8.1 updates, delivering actionable insights to product teams.
+  date: Microsoft, Summer 2013
   photo: assets/imgs/seatle.jpg
 
 - title: HCI Research Intern
-  desc: 
-    - Strengthened designers' and product managers' understanding of how medical professionals utilize electronic health record systems. 
-    - Conducted usability studies, interviews, and focus groups with physicians to identify UX issues in an EHR prototype. 
+  desc:
+    - Strengthened designers’ and managers’ understanding of how medical staff interact with electronic health record (EHR) systems through in-depth user research.
+    - Identified and communicated usability issues in an EHR prototype by conducting usability tests, heuristic evaluations, interviews, and focus groups with physicians.
   date: Biomedical Informatics Research Center, Summer 2012
   photo: assets/imgs/marshfield.jpg
 
-- title: Graduate Teaching Assistant
-  desc: 
-    - Advised students on the design and implementation of course projects. 
-    - Described and communicated course concepts using relatable contexts in lectures. 
-    - Designed software tutorials to to encourage students to explore virtual reality application development.
-  date: Iowa State University, 2013-2014
-  photo: assets/imgs/teaching.jpg
+#- title: Graduate Teaching Assistant
+#  desc: 
+#    - Advised students on the design and implementation of course projects. 
+#    - Described and communicated course concepts using relatable contexts in lectures. 
+#    - Designed software tutorials to to encourage students to explore virtual reality application development.
+#  date: Iowa State University, 2013-2014
+#  photo: assets/imgs/teaching.jpg
 
-- title: IT Consultant
-  desc: 
-    - Provided remote and onsite technical support to small business clients. 
-    - Communicated with clients to repair and maintain computer-networking systems.
-  date: Stream Consulting, 2009-2010
-  photo: assets/imgs/hutch.jpg
+#- title: IT Consultant
+#  desc: 
+#    - Provided remote and onsite technical support to small business clients. 
+#    - Communicated with clients to repair and maintain computer-networking systems.
+#  date: Stream Consulting, 2009-2010
+#  photo: assets/imgs/hutch.jpg
 
-- title: Undergraduate Teaching Assistant
-  desc: 
-    - Assisted faculty of the St. Olaf Norwegian Department with grading of tests and homework. 
-    - Interacted with professors to help develop web-based curriculum.
-  date: St. Olaf College, 2007-2009
-  photo: assets/imgs/UndergradT.jpg
+#- title: Undergraduate Teaching Assistant
+#  desc: 
+#    - Assisted faculty of the St. Olaf Norwegian Department with grading of tests and homework. 
+#    - Interacted with professors to help develop web-based curriculum.
+#  date: St. Olaf College, 2007-2009
+#  photo: assets/imgs/UndergradT.jpg
 
-- title: Assistant Teacher
-  desc: 
-    - Prepared and administered group learning activities. Aided teacher in executing lesson plans. 
-    - Provided guidance on on-site hardware and software. 
-    - Facilitated open communication among families, children, and school staff.
-  date: Migrant Head Start School, Summers 2005-2008
-  photo: assets/imgs/headstart.jpg
+#- title: Assistant Teacher
+#  desc: 
+#    - Prepared and administered group learning activities. Aided teacher in executing lesson plans. 
+#    - Provided guidance on on-site hardware and software. 
+#    - Facilitated open communication among families, children, and school staff.
+#  date: Migrant Head Start School, Summers 2005-2008
+#  photo: assets/imgs/headstart.jpg

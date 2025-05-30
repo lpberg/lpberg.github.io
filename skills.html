@@ -8,35 +8,36 @@ title: skills
 		<h2>Skills & Interests</h2>
 	</div>
 	<div class="row row justify-content-center">
-			<div class="col-3">
-				<p><b>Technical</b></p>
+			<div class="col">
+				<p><b>Research & Design</b></p>
 				<ul class="basiclist">
-					{% for tech in site.data.technical %}
+					{% for method in site.data.researchdesign %}
+						<li>{{ method }}</li>
+					{% endfor %}
+				</ul>
+			</div>
+			<div class="col">
+				<p><b>Data Analysis</b></p>
+				<ul class="basiclist">
+					{% for software in site.data.dataanalysis %}
+						<li>{{ software }}</li>
+					{% endfor %}							
+				</ul>		
+			</div>
+
+			<div class="col">
+				<p><b>Technical & Tools</b></p>
+				<ul class="basiclist">
+					{% for tech in site.data.technicaltools %}
 						<li>{{ tech }}</li>
 					{% endfor %}											
 				</ul>		
 			</div>
 
-			<div class="col-3">
-				<p><b>Methods</b></p>
+			<div class="col">
+				<p><b>Interests</b></p>
 				<ul class="basiclist">
-					{% for method in site.data.methods %}
-						<li>{{ method }}</li>
-					{% endfor %}
-				</ul>
-			</div>
-			<div class="col-3">
-				<p><b>Software</b></p>
-				<ul class="basiclist">
-					{% for software in site.data.software %}
-						<li>{{ software }}</li>
-					{% endfor %}							
-				</ul>		
-			</div>
-			<div class="col-3">
-				<p><b>Hobbies</b></p>
-				<ul class="basiclist">
-				{% for interest in site.data.hobbies %}
+				{% for interest in site.data.interests %}
 					<li>{{ interest }}</li>
 				{% endfor %}						
 				</ul>		
@@ -45,43 +46,3 @@ title: skills
 	</div>
 </div>
 	
-<!-- <div class="container">
-	<div class="row row justify-content-center">
-		<h2 class="text-center">Interests</h2>
-	</div>
-	<div class="row row justify-content-center">
-			<div class="col-2">
-				<p><b>Research</b></p>
-				<ul class="basiclist leftborder">
-				{% for interest in site.data.interests %}
-					{% if interest.type == "research" %}
-					<li>{{ interest.name }}</li>
-					{% endif %}
-				{% endfor %}
-				</ul>
-			</div>
-			
-			<div class="col-2">
-				<p><b>Hobbies</b></p>
-				<ul class="basiclist leftborder">
-				{% for interest in site.data.interests %}
-					{% if interest.type == "hobbies" %}
-					<li>{{ interest.name }}</li>
-					{% endif %}
-				{% endfor %}						
-				</ul>		
-			</div>
-			<div class="col-2">
-				<p><b>Technical</b></p>
-				<ul class="basiclist leftborder">
-					{% for interest in site.data.interests %}
-					{% if interest.type == "technical" %}
-						<li>{{ interest.name }}</li>
-					{% endif %}
-				{% endfor %}						
-				</ul>		
-			</div>
-		</div>
-	</div>
-</div>
-	 -->
